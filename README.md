@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # CAIXA DA LANCHONETE
 
 ## COMO BAIXAR O CÓDIGO E SUBMETER MINHA SOLUÇÃO?
@@ -131,4 +132,7 @@ O resultado esperado deve ser:
 ```
 "R$ 15,96"
 ```
+=======
+# desafio-joelson-cerqueira
+>>>>>>> bc968006e2c1c76c4a62b227e6de766a3cd4cab8
 
