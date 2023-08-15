@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CAIXA DA LANCHONETE
 
 ## COMO BAIXAR O CÓDIGO E SUBMETER MINHA SOLUÇÃO?
@@ -130,3 +131,4 @@ O resultado esperado deve ser:
 ```
 "R$ 15,96"
 ```
+
